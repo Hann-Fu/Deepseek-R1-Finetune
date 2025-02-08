@@ -137,7 +137,3 @@ This document provides an in-depth explanation of the key hyperparameters and fu
 6. Test the model with a sample prompt.
 7. Finalize logging with Weights & Biases.
 
-## Practical Tips
-- **Experimentation:** Start with default values and adjust based on model performance and resource constraints.
-- **Monitoring:** Use tools like Weights & Biases to track changes and their impacts on performance.
-- **Resource Management:** Be mindful of memory and compute limitations, especially when adjusting batch sizes and precision settings.
