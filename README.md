@@ -3,7 +3,6 @@
 ## Overview
 
 - **Model**: [DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B)
-- **Dataset**: [Medical Reasoning Dataset](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
 
 ## Project Structure
 
